@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manukrishna2000&label=Profile%20views&color=0e75b6&style=flat" alt="manukrishna2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manukrishna2000" alt="manukrishna2000" /></a> </p>
-
 - 🔭 I’m currently working on [CQUBE](https://www.thecqube.com/)
 
 - 🌱 I’m currently learning **Next JS, Typescript, Flutter**
